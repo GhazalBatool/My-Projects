@@ -8,6 +8,6 @@ Collection of my Google Colab notebooks from AI &amp; Data Science projects.
   [Rock-Paper-Scissor Game](https://github.com/GhazalBatool/Rock-Paper-Scissor_Game.git)
   [Healthcare Chatbot](https://github.com/GhazalBatool/Healthcare_Chatbot.git)
   [MLOpsProject](https://github.com/GhazalBatool/MLOpsProject.git)
-  [Rock-Paper-Scissor Game](https://github.com/GhazalBatool/Rock-Paper-Scissor_Game.git)
+  [RNN Project](https://github.com/GhazalBatool/RNN_project.git)
   [Rock-Paper-Scissor Game](https://github.com/GhazalBatool/Rock-Paper-Scissor_Game.git)
 
