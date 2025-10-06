@@ -5,9 +5,9 @@ Collection of my Google Colab notebooks from AI &amp; Data Science projects.
   
 **Other Projects Repo Link:**
   [ Object Detection & Tracking using WebCam](https://github.com/GhazalBatool/Object-Detection.git)
-  [Rock-Paper-Scissor Game](https://github.com/GhazalBatool/Rock-Paper-Scissor_Game.git)
-  [Healthcare Chatbot](https://github.com/GhazalBatool/Healthcare_Chatbot.git)
-  [MLOpsProject](https://github.com/GhazalBatool/MLOpsProject.git)
-  [RNN Project](https://github.com/GhazalBatool/RNN_project.git)
-  [Rock-Paper-Scissor Game](https://github.com/GhazalBatool/Rock-Paper-Scissor_Game.git)
+  •[Rock-Paper-Scissor Game](https://github.com/GhazalBatool/Rock-Paper-Scissor_Game.git)
+ • [Healthcare Chatbot](https://github.com/GhazalBatool/Healthcare_Chatbot.git)
+  • [MLOpsProject](https://github.com/GhazalBatool/MLOpsProject.git)
+• [RNN Project](https://github.com/GhazalBatool/RNN_project.git)
+  • [ANN Project](https://github.com/GhazalBatool/ANNProject.git)
 
